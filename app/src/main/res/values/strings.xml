@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Emmanuel Zamora</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, mi name is Emmanuel naci el 11 de febreo del 2001. :)
+        \n\n Soy de Acámbaro Guanajuato..
+\n\n Me gusta mucho el futbol.
+\n\n MI equipo favorito son las poderosisimas chivas.
+\n\n Me gusta mucho salir de rumba con los amigos.
+\n\n Mi comida favorita son las hambueguesas y los tacos de pastor de trompo.
+\n\nMe gusta mucho la programación movil.
+        \n\n Odio las matematicas y quedarme encerrado en casa.
+        \n\n Tengo 2 hermanos y una hermana soy el mas pequeño de mi famila.
+        \n\n Tengo 2 mascotas llamadas toby y kofy.
+
+
+    </string>
+</resources>
